@@ -11,6 +11,6 @@
 - 📫 You can get in touch with me by email at [zhouxing9454@gmail.com](mailto:zhouxing9454@gmail.com)
 - 🎈  Welcome to visit my personal [blog](https://www.youandgentleness.cn/)
 
-<img align="right" alt="GIF" src="https://blog-1314857283.cos.ap-shanghai.myqcloud.com/banner-img/1.gif" width="480" height="360" title="Error!">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="480" height="360" title="Error!">
 
 🤝 Let's do some interesting projects together 👆!!!
