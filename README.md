@@ -9,7 +9,8 @@
 - 🏫 I am currently an undergraduate student at [Zhejiang Normal University](https://www.zjnu.edu.cn/), majoring in software engineering.
 - 🌱 I’m currently learning [Geecache](https://github.com/zhouxing9454/Geecache)
 - 📫 You can get in touch with me by email at [zhouxing9454@gmail.com](mailto:zhouxing9454@gmail.com)
+- 🎈  Welcome to visit my personal [blog](https://www.youandgentleness.cn/)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
+<img align="right" alt="GIF" src="https://blog-1314857283.cos.ap-shanghai.myqcloud.com/banner-img/1.gif" width="480" height="360" title="Error!">
 
 🤝 Let's do some interesting projects together 👆!!!
