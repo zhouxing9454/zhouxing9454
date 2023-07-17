@@ -12,5 +12,3 @@
 - 🎈  Welcome to visit my personal [blog](https://www.youandgentleness.cn/)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="480" height="360" title="Error!">
-
-🤝 Let's do some interesting projects together 👆!!!
