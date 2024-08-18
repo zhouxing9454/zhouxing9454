@@ -5,4 +5,4 @@
 - Welcome to visit my personal [blog](https://zhouxing9454.github.io/)
 
 
-<img src="https://blog-1314857283.cos.ap-shanghai.myqcloud.com/background-img/back2.png" alt="home-banner-background" class="w-full h-full object-cover dark:hidden">
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=zhouxing9454&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
